@@ -3,5 +3,5 @@
 [vida] 10
 [dano] 2
 [recompensa] C:Moedas(2-5)/I:Pocao de vida/L:Coracao de zumbi
-[imagem] -
+[imagem] https://raw.githubusercontent.com/theshoperr/Gridus/master/Sprites/Zombie.png
 [raridade] Comum

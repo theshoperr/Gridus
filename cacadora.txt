@@ -1,0 +1,7 @@
+[nome] Caçadora
+[tipo] Range
+[vida] 15
+[dano] 4
+[recompensa] C:Moedas(4-8)/R:Arco da floresta
+[imagem] https://raw.githubusercontent.com/theshoperr/Gridus/master/Sprites/Hunter.png
+[raridade] Comum

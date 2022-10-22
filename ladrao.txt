@@ -3,5 +3,5 @@
 [vida] 14
 [dano] 5
 [recompensa] C:Moedas(5-7)/R:Sabre
-[imagem] -
+[imagem] https://raw.githubusercontent.com/theshoperr/Gridus/master/Sprites/Thief.png
 [raridade] Comum

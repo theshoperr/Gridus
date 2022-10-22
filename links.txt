@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/theshoperr/Gridus/master/esqueleto.txt
+https://raw.githubusercontent.com/theshoperr/Gridus/master/zumbi.txt
+https://raw.githubusercontent.com/theshoperr/Gridus/master/ladrao.txt
+https://raw.githubusercontent.com/theshoperr/Gridus/master/cacadora.txt

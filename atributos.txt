@@ -2,6 +2,6 @@
 [tipo]
 [vida]
 [dano]
-[recompensa]
-[imagem]
+[recompensa] C:Moedas()
+[imagem] https://raw.githubusercontent.com/theshoperr/Gridus/master/Sprites/Zombie.png
 [raridade]

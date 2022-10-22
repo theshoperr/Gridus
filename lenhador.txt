@@ -3,5 +3,5 @@
 [vida] 10
 [dano] 2
 [recompensa]
-[imagem] -
+[imagem] https://raw.githubusercontent.com/theshoperr/Gridus/master/Sprites/Lumberjack.png
 [raridade] Comum
