@@ -1,0 +1,7 @@
+[nome]
+[tipo]
+[vida]
+[dano]
+[recompensa]
+[imagem]
+[raridade]

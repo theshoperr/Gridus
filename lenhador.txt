@@ -1,0 +1,7 @@
+[nome] Lenhador
+[tipo] Melee
+[vida] 10
+[dano] 2
+[recompensa]
+[imagem] -
+[raridade] Comum

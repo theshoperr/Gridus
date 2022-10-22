@@ -1,0 +1,7 @@
+[nome] Esqueleto
+[tipo] Range
+[vida] 12
+[dano] 3
+[recompensa] C:Moedas(3-6)/E:Arco de osso
+[imagem] -
+[raridade] Comum

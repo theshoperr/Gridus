@@ -1,0 +1,7 @@
+[nome] Ladrão
+[tipo] Melee
+[vida] 14
+[dano] 5
+[recompensa] C:Moedas(5-7)/R:Sabre
+[imagem] -
+[raridade] Comum
