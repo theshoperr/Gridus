@@ -1,7 +1,7 @@
-[nome] Esqueleto
-[tipo] Range
-[vida] 12
-[dano] 3
-[recompensa] C:Moedas(3-6)/E:Arco de osso
-[imagem] https://raw.githubusercontent.com/theshoperr/Gridus/master/Sprites/Skeleton.png
+[nome] Esqueleto;
+[tipo] Range;
+[vida] 12;
+[dano] 3;
+[recompensa] C:Moedas(3-6)/E:Arco de osso;
+[imagem] https://raw.githubusercontent.com/theshoperr/Gridus/master/Sprites/Skeleton.png;
 [raridade] Comum
