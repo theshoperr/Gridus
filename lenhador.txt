@@ -2,6 +2,6 @@
 [tipo] Melee;
 [vida] 10;
 [dano] 2;
-[recompensa] C:Moedas(4-8)/I:Machado velho
+[recompensa] C:Moedas(4-8)/I:Machado velho;
 [imagem] https://raw.githubusercontent.com/theshoperr/Gridus/master/Sprites/Lumberjack.png;
 [raridade] Comum
