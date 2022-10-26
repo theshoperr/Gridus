@@ -1,4 +1,4 @@
-[nome] Ladrão;
+[nome] Ladrao;
 [tipo] Melee;
 [vida] 14;
 [dano] 5;

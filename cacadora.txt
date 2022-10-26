@@ -1,4 +1,4 @@
-[nome] Caçadora;
+[nome] Cacadora;
 [tipo] Range;
 [vida] 15;
 [dano] 4;
