@@ -1,0 +1,7 @@
+[nome] Arqueira;
+[tipo] Range;
+[vida] 20;
+[dano] 10;
+[recompensa] C:Moedas(10-12)/E:Arco leve;
+[imagem] https://raw.githubusercontent.com/theshoperr/Gridus/master/Sprites/Archer.png
+[raridade] Incomum

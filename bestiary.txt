@@ -3,3 +3,4 @@ C:raw.githubusercontent.com/theshoperr/Gridus/master/Beasts/zumbi.txt;
 C:raw.githubusercontent.com/theshoperr/Gridus/master/Beasts/ladrao.txt;
 C:raw.githubusercontent.com/theshoperr/Gridus/master/Beasts/cacadora.txt;
 C:raw.githubusercontent.com/theshoperr/Gridus/master/Beasts/lenhador.txt
+I:raw.githubusercontent.com/theshoperr/Gridus/master/Beasts/arqueira.txt
