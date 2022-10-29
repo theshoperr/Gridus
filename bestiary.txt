@@ -1,5 +1,5 @@
-C:raw.githubusercontent.com/theshoperr/Gridus/master/esqueleto.txt;
-C:raw.githubusercontent.com/theshoperr/Gridus/master/zumbi.txt;
-C:raw.githubusercontent.com/theshoperr/Gridus/master/ladrao.txt;
-C:raw.githubusercontent.com/theshoperr/Gridus/master/cacadora.txt;
-C:raw.githubusercontent.com/theshoperr/Gridus/master/lenhador.txt
+C:raw.githubusercontent.com/theshoperr/Gridus/master/Beasts/esqueleto.txt;
+C:raw.githubusercontent.com/theshoperr/Gridus/master/Beasts/zumbi.txt;
+C:raw.githubusercontent.com/theshoperr/Gridus/master/Beasts/ladrao.txt;
+C:raw.githubusercontent.com/theshoperr/Gridus/master/Beasts/cacadora.txt;
+C:raw.githubusercontent.com/theshoperr/Gridus/master/Beasts/lenhador.txt
