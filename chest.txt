@@ -3,5 +3,5 @@
 [vida] 0;
 [dano] 0;
 [recompensa] C:Moedas(100-300);
-[imagem] https://raw.githubusercontent.com/theshoperr/Gridus/master/Sprites/Chest.png;
+[imagem] https://raw.githubusercontent.com/theshoperr/Gridus/master/Sprites/chest.png;
 [raridade] Raro
